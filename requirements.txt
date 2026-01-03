@@ -1,0 +1,9 @@
+
+streamlit
+sentence-transformers
+scikit-learn
+numpy
+pandas
+pypdf
+sqlite-utils
+google-generativeai
